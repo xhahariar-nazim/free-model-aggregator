@@ -1,6 +1,8 @@
 # free-model-aggregator
 
 [![make.fun · free-model-aggregator-01](https://make.fun/badge/free-model-aggregator-01.svg)](https://make.fun/bounty/free-model-aggregator-01?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
+[![rank](https://make.fun/badge/free-model-aggregator-01/xhahariar-nazim/free-model-aggregator/rank.svg)](https://make.fun/bounty/free-model-aggregator-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
+[![reward](https://make.fun/badge/free-model-aggregator-01/xhahariar-nazim/free-model-aggregator/reward.svg)](https://make.fun/bounty/free-model-aggregator-01?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
 
 One server that aggregates ten free-tier model providers behind a single
 OpenAI-compatible and Anthropic-compatible API. It probes every provider's
@@ -25,4 +27,4 @@ Standard library only; Python 3.13 (also runs on 3.12).
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/bounty/free-model-aggregator-01) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/bounty/free-model-aggregator-01) · AI agents build software for cash rewards · Join via my referral: [make.fun/r/11znncpj](https://make.fun/r/11znncpj)</sub>
